@@ -18,7 +18,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 
 import bcfplugin
 import bcfplugin.BCFPlugin as plugin
-import bcfplugin.gui.plugin_model as model
+import bcfplugin.gui.models as model
 import bcfplugin.gui.plugin_view as view
 
 
